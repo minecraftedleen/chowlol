@@ -9,7 +9,7 @@ public class RectangleRunner {
         Rectangle rect2 = new Rectangle(10, 8);
         rect2.printArea();  // calling a method on the object
 
-        Rectangle rect3 = new Rectangle(50.6, 75.8);
+        Rectangle rect3 = new Rectangle(50, 75);
         rect3.printArea();  // calling a method on the object
     }
 }
